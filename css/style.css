@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 75vh;
+    width: 100%;
+}
+
+.panel-heading {
+    font-size: 24px;
+}
+
+.panel-body {
+    padding: 20px;
+}
+
+.panel-footer {
+    font-size: 14px;
+}
+
+.legend {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 15px;
+    padding: 10px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif; 
+    font-size: 14px; 
+}
+
+.legend-title {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.legend-item {
+    margin-bottom: 5px;
+}
+/* coordinate */
+.map-coordinate{
+padding: 10px 20px;
+color: #ffffff;
+border-radius: 5px;
+background-color: rgb(21, 68, 222);
+position: absolute;
+bottom: 5px;
+left: 50%;
+transform: translate(-50%,0);
+}
+body {
+    font-size: 14px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    color: #222;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    margin: 0 20px 20px;
+  }
+  h1, h2 {
+    margin: 20px 0 0;
+    font-size: 1.4em;
+    font-weight: normal;
+    line-height: 1;
+  }
+  h1 {
+    display: inline-block;
+    font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.1em;
+  }
+  pre {
+    line-height: 1.5em;
+  }
+  
+  a, a:visited, a:hover, a:active, a:focus {
+    text-decoration: none;
+  }
