@@ -1,0 +1,16 @@
+<layer>
+  <name>Palika</name>
+  <id>LayerInfoImpl--2774c0f4:18d842e737c:-7ff0</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--2774c0f4:18d842e737c:-7ffa</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl--2774c0f4:18d842e737c:-7ff1</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+  <dateCreated>2024-02-07 15:45:56.893 UTC</dateCreated>
+</layer>

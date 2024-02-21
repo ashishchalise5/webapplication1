@@ -1,0 +1,40 @@
+<layerGroup>
+  <id>LayerGroupInfoImpl--2774c0f4:18d842e737c:-7fea</id>
+  <name>Nepal</name>
+  <mode>SINGLE</mode>
+  <workspace>
+    <id>WorkspaceInfoImpl-424a4dc:18d6402bc9e:-7ffa</id>
+  </workspace>
+  <internationalTitle/>
+  <internationalAbstract/>
+  <publishables>
+    <published type="layer">
+      <id>LayerInfoImpl--2774c0f4:18d842e737c:-7feb</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2774c0f4:18d842e737c:-7ff5</id>
+    </published>
+    <published type="layer">
+      <id>LayerInfoImpl--2774c0f4:18d842e737c:-7ff0</id>
+    </published>
+  </publishables>
+  <styles>
+    <style>
+      <id>StyleInfoImpl--2774c0f4:18d842e737c:-7ffc</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--2774c0f4:18d842e737c:-7ffb</id>
+    </style>
+    <style>
+      <id>StyleInfoImpl--2774c0f4:18d842e737c:-7ffa</id>
+    </style>
+  </styles>
+  <bounds>
+    <minx>80.05846710800411</minx>
+    <maxx>88.20154995647366</maxx>
+    <miny>26.347762022114143</miny>
+    <maxy>30.47296620051582</maxy>
+    <crs>EPSG:4326</crs>
+  </bounds>
+  <dateCreated>2024-02-07 16:04:10.875 UTC</dateCreated>
+</layerGroup>
